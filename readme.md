@@ -54,3 +54,49 @@ Para más información, puedes contactar a Jerkan Industries a través de nuestr
 Yeremy Nadin cano bello
 Clan Sierra
 Documento 1140901336
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jekan Games Shop
+Welcome to Jekan Games Shop, your virtual video game store. This project is a website designed to provide an online video game shopping experience.
+
+Description
+The website is designed to be intuitive and easy to navigate, allowing users to explore a variety of video games, make payments, and learn more about the store. The shop was founded in 2025 with the goal of providing customers with an unparalleled gaming experience.
+
+Project Structure
+The project consists of the following files:
+
+index.html: The main file that contains the structure of the website.
+style.css: A stylesheet that defines the visual appearance of the page.
+External Fonts: Font Awesome is used for social media icons.
+Page Sections
+Header: Contains the store title and a navigation menu with links to different sections:
+Home
+Payments
+About Us
+Contact
+Game Gallery: Displays a series of images of popular video games.
+Payment Form: Allows users to enter their information to complete an order. It includes fields for first name, last name, email, and address.
+About Us: Provides information about the store and its mission.
+Contact: Includes links to the store's social media.
+Technologies Used
+HTML5
+CSS3
+Font Awesome (for icons)
+How to Run the Project
+Clone the repository to your local machine.
+Open the index.html file in your preferred web browser.
+Contact
+For more information, you can contact Jerkan Industries through our social media:
+
+Facebook
+Instagram
+YouTube
+Thank you for visiting Jekan Games Shop!
+
+Yeremy Nadin Cano Bello
+
+Clan Sierra
+
+Document 1140901336
